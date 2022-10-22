@@ -7,8 +7,8 @@ Statistical material that is often used for data science
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-## We made a portofolio about Statistics For Data Science and this week we're learning the following points:
-### 1. Statistics for data science
+# We made a portofolio about Statistics For Data Science and this week we're learning the following points:
+## 1. Statistics for data science
 <p> 1.1 Types of Variables </p>
 <p> 1.2 Types of Statistics </p>
 <p> 1.3 Probability </p>
@@ -22,9 +22,9 @@ Statistical material that is often used for data science
 <p> 1.11 Handling outlier </p>
 <p> 1.12 Imputation Missing Value </p>
 
-### 2.Inferential Statistics - Confidence Intervals
+## 2.Inferential Statistics - Confidence Intervals
 <p> 2.1 Inferential Statistics Practice </p>
 <p> 2.2 Coonfidence Intervals </p>
 
-### 3.Inferential Statistics - Hypothesis Testing
+## 3.Inferential Statistics - Hypothesis Testing
 <p> 3.1 Paired sampled t-test </p>

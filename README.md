@@ -9,22 +9,22 @@ Statistical material that is often used for data science
 
 ## We made a portofolio about Statistics For Data Science and this week we're learning the following points:
 ### 1. Statistics for data science
-#### 1.1 Types of Variables
-#### 1.2 Types of Statistics
-#### 1.3 Probability
-#### 1.4 Descriptive Statistics
-#### 1.5 Variance 
-#### 1.6 Range
-#### 1.7 Standart Deviation 
-#### 1.8 Quantile
-#### 1.9 Correlations
-#### 1.10 Outlier and Anomalies
-#### 1.11 Handling outlier
-#### 1.12 Imputation Missing Value
+<p> 1.1 Types of Variables </p>
+<p> 1.2 Types of Statistics </p>
+<p> 1.3 Probability </p>
+<p> 1.4 Descriptive Statistics </p>
+<p> 1.5 Variance </p>
+<p> 1.6 Range </p>
+<p> 1.7 Standart Deviation  </p>
+<p> 1.8 Quantile </p>
+<p> 1.9 Correlations </p>
+<p> 1.10 Outlier and Anomalies </p>
+<p> 1.11 Handling outlier </p>
+<p> 1.12 Imputation Missing Value </p>
 
 ### 2.Inferential Statistics - Confidence Intervals
-#### 2.1 Inferential Statistics Practice
-#### 2.2 Coonfidence Intervals
+<p> 2.1 Inferential Statistics Practice </p>
+<p> 2.2 Coonfidence Intervals </p>
 
 ### 3.Inferential Statistics - Hypothesis Testing
-#### 3.1 Paired sampled t-test
+<p> 3.1 Paired sampled t-test </p>
